@@ -1,6 +1,6 @@
 # Launch
 
-Chips, Bits and Bytes VB6 Launcher (`Launcher.exe` v4.5.2) by Dave Robinson (1997-1998) - a program launcher for NT 4.0 and Win95 (built for HMAS Arunta ALAN users). Tabbed Applications / Files / Personal shortcuts, system tray, printer helpers, PERS scores, Orders, Signals, and Scream admin paging; Setupwiz includes `systray.ocx`. VersionFileDescription: "A program launcher for NT4.0 and Win95".
+Chips, Bits and Bytes VB6 Launcher (`Launcher.exe` v4.5.2) by Dave Robinson (1997-1998) - a program launcher for NT 4.0 and Win95 (HMAS Arunta ALAN notes in version comments). Tabbed Applications / Files / Personal shortcuts, system tray, printer helpers, PERS scores, Orders, Signals, and Scream admin paging; Setupwiz includes `systray.ocx`. VersionFileDescription: "A program launcher for NT4.0 and Win95".
 
 **Source last updated:** 1998-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
